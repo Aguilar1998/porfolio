@@ -1,0 +1,4 @@
+
+git fetch para traer cambios del repositorio remoto al repositorio local y fusionarlo con merge (resumen con un git pull)
+
+Mi nombre es Martin Aguilar. tengo 24 años y me gusta usar git
